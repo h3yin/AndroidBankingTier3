@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.androidbanking.Customer.CustomerMain" >
+    <item android:id="@+id/Logout"
+        android:title="Logout"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+    <item android:id="@+id/ViewStatement"
+        android:title="ViewStatement"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+    <item android:id="@+id/TransferFunds"
+        android:title="TransferFunds"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+</menu>
